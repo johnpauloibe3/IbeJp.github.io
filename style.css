@@ -7,7 +7,7 @@ body{
     font-family: 'Josefin Sans', sans-serif;
 } 
 body {
-    background-image: url("PHOTOS/texturebg.jpg");
+    background-image: url("texturebg.jpg");
     background-position: center;
     background-color: #cccccc;
     overflow-x: hidden;
@@ -66,7 +66,7 @@ body {
     height: 100vh;
     background-position:center;
     background-size: cover; 
-    background-image: url(PHOTOS/Anxiety-busting\ Studio\ Ghibli\ gif\ dump!.gif);
+    background-image: url(Anxiety-busting\ Studio\ Ghibli\ gif\ dump!.gif);
 }
 
 .change_content::after{
